@@ -1,5 +1,7 @@
 # 繁體中文版Qiskit Terr入門量子信息科學 
 
+
+一鍵啟動Binder 開啟ipynb:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dr-data/Qiskit_tutorial/master)
 
 Source:
